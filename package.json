@@ -1,0 +1,7 @@
+{
+  "name": "@bibliotek/synch",
+  "version": "0.0.1",
+  "description": "primitive for building high-level synchronization code",
+  "type": "module",
+  "exports": "./synch.js"
+}
